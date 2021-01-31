@@ -20,3 +20,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('',include('Main2.urls'))
 ]
+
+
+
+# jgfjjfjfjf
